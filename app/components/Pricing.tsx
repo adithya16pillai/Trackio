@@ -3,7 +3,7 @@ import { Check } from "lucide-react"
 const tiers = [
   {
     name: "Basic",
-    price: "$9",
+    price: "$9",  
     description: "Perfect for individuals and small projects",
     features: [
       "1 user",
